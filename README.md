@@ -1,0 +1,1 @@
+# Fama-and-French-quality-factor
